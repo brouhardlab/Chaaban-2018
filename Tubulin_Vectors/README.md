@@ -11,4 +11,4 @@
 - Chimera-readable ".bild" file with vectors
 
 ## Example run:
-python Tubulin_Vectors.py --pdb1 PF-3JAT.pdb --pdb2 PF-3JAS-ali-to-3JAT-bottombeta.pdb --a 3JAT-to-3JAS-alignment-alpha.asc --b 3JAT-to-3JAS-alignment-beta.asc
+`python Tubulin_Vectors.py --pdb1 PF-3JAT.pdb --pdb2 PF-3JAS-ali-to-3JAT-bottombeta.pdb --a 3JAT-to-3JAS-alignment-alpha.asc --b 3JAT-to-3JAS-alignment-beta.asc`
