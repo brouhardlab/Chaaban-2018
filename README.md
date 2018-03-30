@@ -3,10 +3,10 @@
 
 ## Scripts
 
-- [Tomography analysis of microtubule pf numbers](.Tomography).
-- [Position Weight Matrix calculation of similarity scores between sequences](.PWM2Chimera)
-- [Vector analysis between aligned two-dimer tubulin protofilaments](.Tubulin_Vectors)
-- [Sub-pixel localization and averaging of EB comets](.EB_comet)
+- [Tomography analysis of microtubule pf numbers](./Tomography).
+- [Position Weight Matrix calculation of similarity scores between sequences](./PWM2Chimera)
+- [Vector analysis between aligned two-dimer tubulin protofilaments](./Tubulin_Vectors)
+- [Sub-pixel localization and averaging of EB comets](./EB_comet)
 
 ## Contact
 
