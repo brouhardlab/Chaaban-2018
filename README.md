@@ -8,7 +8,7 @@
 
 ## Contact
 
-For any questions, contact [Gary Brouhard](mailtogary.brouhard@mcgill.ca).
+For any questions, contact [Sami Chaaban](mailto:sami.chaaban@mail.mcgill.ca) or [Gary Brouhard](mailto:gary.brouhard@mcgill.ca).
 
 ## License
 
