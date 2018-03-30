@@ -15,6 +15,7 @@ and then splitting them up for this script.
 - Attribute file with similarity scores of each residue readable by Chimera. A separate file for each sequence in the input is generated to account for differences in sequences.
 
 ## Loading attribute files in Chimera
-- `cd /path/to/similarity/files`
-- `defattr name-of-beta-similarity.txt spec #0`
+- In the Chimera command-lin, run:
+ `cd /path/to/similarity/files`
+ `defattr name-of-beta-similarity.txt spec #0`
 
