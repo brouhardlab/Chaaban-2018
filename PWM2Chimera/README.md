@@ -8,7 +8,7 @@
 `mafft-linsi  --retree 2 --inputorder "all-beta.fasta" > "all-beta-gaps.fasta"`
 and then splitting them up for this script.
 
-##Command-line run:
+## Command-line run:
 `python pwm2chimera.py --i1 canonical-beta-gaps.fasta --i2 elegans-beta-gaps.fasta`
 
 ## Output
