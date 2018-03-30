@@ -1,7 +1,7 @@
 # Scripts associated with Chaaban et al., 2018
 
 
-## Models
+## Scripts
 
 - [Tomography analysis of microtubule pf numbers](.Tomography).
 - Etc.
