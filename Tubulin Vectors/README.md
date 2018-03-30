@@ -1,6 +1,6 @@
 # Vectors between aligned PFs
 
-![Vector Schematic](./Vector analysis method schematic.jpg "Vector Schematic")
+![Vector Schematic](./Vector_analysis_method_schematic.jpg "Vector Schematic")
 
 ##Input
 
