@@ -4,7 +4,7 @@
 
 ## Input
 
-- Directory holding separate numbered folders (e.g. "1", "2", "3", etc.), each with a file called cc.tif, which is a stack of slices thorugh a microtubule. Consider doing fine-tuning of slice centering in FIJI first
+- Directory holding separate numbered folders (e.g. "1", "2", "3", etc.), each with a file called cc.tif, which is a stack of slices through a microtubule. Consider doing fine-tuning of slice centering in FIJI first
 
 ## Run
 
