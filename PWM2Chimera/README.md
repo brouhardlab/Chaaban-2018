@@ -1,4 +1,4 @@
-# Vectors between aligned PFs
+# PWM2Chimera
 
 ![PWM Schematic](./PWM_schematic.jpg "PWM schematic")
 
